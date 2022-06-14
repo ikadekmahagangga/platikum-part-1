@@ -16,5 +16,5 @@ print("The given set of edges is:", edges)
 print("Graph representation in python is:")
 print(graph)
 
-# referensi https://www.pythonforbeginners.com/data-structures/graph-in-python
-# ini adalah codingan basic dari graph sederhana
+#referensi https://www.pythonforbeginners.com/data-structures/graph-in-python
+#ini adalah codingan basic dari graph sederhana

@@ -17,5 +17,6 @@ def cocktail_sort(l):
             return l
 
 l1 = [9,7,2,5,4,1,12,3]
+print(l1)
 res = cocktail_sort(l1)
 print(res)
